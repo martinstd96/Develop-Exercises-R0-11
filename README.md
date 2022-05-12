@@ -1,6 +1,6 @@
 # Eynes Developer Exercises Python
 
-# For run the exercises, please run the following command (in Linux terminal):
+## For run the exercises, please run the following command (in Linux terminal):
 ### circulo.py:
 
 `python3 -m doctest circulo.py -v`
